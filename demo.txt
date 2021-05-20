@@ -1,0 +1,22 @@
+installation env git,angular 11
+create a repo
+identify the no of module----
+loginpage -login authentctn....regstration...forgt passrd
+dashbrd
+homepage --search function(on location/categry)
+property booking
+cancel booking
+logout
+
+-------------------------------------------------------------------------------
+
+1stpage----- login for existing user/new user registr link/forgot password link
+
+if new user regitr link is clicked---->user registration page--user details and passwrd--submit button-->to login page
+forgot passwrd-- verify the customer details--then gives access to chnge passwrd--then back to login page.
+
+-------------------------------------------------------------------------------
+2ndpage--  home page with navbar nd search
+-------------------------------------------------------------------------------
+3rd pagee-- profile---- user details/booking history/passwrd chnge
+-------------------------------------------------------------------------------
